@@ -1,0 +1,21 @@
+@import url(http://fonts.googleapis.com/css?family=Noto+Serif:400italic&subset=cyrillic-ext,latin);
+@import url(http://fonts.googleapis.com/css?family=Noto+Serif&subset=latin,cyrillic-ext,latin-ext,cyrillic);
+
+h1 {
+    font-family: 'Noto Serif', serif;
+    text-decoration: underline;
+    font-weight: 500;
+    line-height: 1.1;
+    color: #ff0000;
+}
+
+.shiny-html-output {
+    font-size: 20px; 
+    line-height: 21px;
+    font-family: 'Noto Serif', serif;
+    line-height: 150%;
+}
+
+body {
+    background-color: #ffffff;
+}

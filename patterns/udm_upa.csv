@@ -1,0 +1,48 @@
+pattern,replacement,comment
+-,-,
+",",",",
+:,:,
+\.,\.,
+\?,\?,
+…,…,
+˙,˙,This marks the stress
+’,',These two apparently should both be '
+ˈ,',These two apparently should both be '
+°,°,Does this mark labialisation of the earlier vowel?
+ä,ä,LATIN SMALL LETTER A WITH DIAERESIS
+ӓ,ä,CYRILLIC SMALL LETTER A WITH DIAERESIS
+ö,e̮,
+а,a,
+б,b,
+в,v,
+г,g,
+д,d,
+е,e,
+ж,ž,
+з,z,
+и,i,
+й,j,
+к,k,
+л,l,
+м,m,
+н',ń,
+н,n,
+о,o,
+ӧ,e̮,This is cyrillic small letter o with diaeresis
+ö,e̮,I think this doesn't occur in the text but in principle the same text often contains both cyrillic and latin mixed.
+п,p,
+р,r,
+с',ś,
+с,s,
+т,t,
+у,u,
+ӱ,y,
+ф,f,
+ч,ć,
+ц,c,
+ш,š,
+ъ,ə̑,What is this?
+ы,i̮,This is not very common in this dialect; maybe they are just variants of one phoneme with ы?
+ь,',What is this?
+э,e,
+\n,<br/>,
