@@ -1,9 +1,5 @@
-
-# This is the server logic for a Shiny web application.
-# You can find out more about building applications with Shiny here:
-#
-# http://shiny.rstudio.com
-#
+# CC-BY Niko Partanen, Freiburg Research Project in Saami Studies / Izhva Komi Language DOcumentation Project
+# Funded by Kone Foundation
 
 source("mgsub.R")
 source("transliterate.R")
